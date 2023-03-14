@@ -1,7 +1,7 @@
 # Rail-Shooting-game
 Rail type shooting game made in Unity.
 
-# Features:
+## Features:
 - Camera rail: Path through the level that camera follows
 - Player movement:  Horizontal and vertical movement 
 - Shooting : Player shoot bullets which do damage to enemies 
